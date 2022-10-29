@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+#text {
+  position: absolute;
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100px;
+  bottom: 75px;
+  left: 75px;
+  z-index: 100;
+  display: block;
+}
+#text2 {
+  position: absolute;
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  letter-spacing: 6px;
+  bottom: 60px;
+  left: 82px;
+  z-index: 100;
+  display: block;
+}
